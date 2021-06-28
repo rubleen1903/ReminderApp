@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+A simple Birthday Reminder App using React 
+
+![WhatsApp Image 2021-06-29 at 12 08 04 AM](https://user-images.githubusercontent.com/47170879/123687130-2e511500-d86e-11eb-8e40-e686e878bf91.jpeg)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
